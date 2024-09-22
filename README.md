@@ -3,5 +3,6 @@ This is a collection of research and review papers of Multi-FPGA for asic emulat
 
 ### For specific application
 * [ASPLOS 2023] SMAPPIC: Scalable Multi-FPGA Architecture Prototype Platform in the Cloud by David Wentzlaff.
+* [FPGA 2023] ENCORE: Efficient Architecture Verification Framework with FPGA Acceleration by Bao YunGang
 * [Microprocessors and Microsystems 2023] Prototyping using multi-FPGA platform: A novel and complete flow.
 
